@@ -1,0 +1,13 @@
+{
+  "name": "time-locked-token-vesting",
+  "version": "1.0.0",
+  "description": "Vesting schedule implementation for ERC-20 tokens",
+  "main": "VestingWallet.sol",
+  "keywords": [
+    "vesting",
+    "lockup",
+    "tokenomics",
+    "solidity",
+    "ethereum"
+  ]
+}
